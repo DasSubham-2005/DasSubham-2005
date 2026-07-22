@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Subham Das
 
-<!--
-**DasSubham-2005/DasSubham-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
+💻 Passionate about Machine Learning, Data Science, MERN Stack Development, and Python
+🌱 Currently learning Full Stack Development, AI/ML, and Cloud Deployment
+🚀 Always eager to build real-world projects and improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+- Languages: Python, JavaScript, C, Java
+- Frontend: HTML, CSS, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
+- Tools: Git, GitHub, VS Code, Streamlit
+
+---
+
+📈 Currently Learning
+
+- Advanced Machine Learning
+- MERN Stack
+- Data Structures & Algorithms
+- GATE CSE Preparation
+
+---
+
+📫 Connect with Me
+
+- GitHub: https://github.com/DasSubham-2005
+- Email: rockydas992967@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.## Hi there 👋
+
