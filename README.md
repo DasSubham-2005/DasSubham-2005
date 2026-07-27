@@ -9,7 +9,7 @@
 
 🛠️ Tech Stack
 
-- Languages: Python, JavaScript, C, Java
+- Languages: Python,  Java
 - Frontend: HTML, CSS, React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB, MySQL
@@ -21,6 +21,7 @@
 📈 Currently Learning
 
 - Advanced Machine Learning
+- Deep Learning 
 - MERN Stack
 - Data Structures & Algorithms
 - GATE CSE Preparation
@@ -31,6 +32,7 @@
 
 - GitHub: https://github.com/DasSubham-2005
 - Email: rockydas992967@gmail.com
+- Linkedin: https://www.linkedin.com/in/subham-das-a316422b4
 
 ---
 
